@@ -1,0 +1,11 @@
+{
+  "name": "st-settings-cleaner",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node --check index.js && node --check core.js && node --check host.js && node --check ui.js",
+    "test": "node tests/core.test.mjs",
+    "test:browser": "node tests/browser.mjs"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "display_name": "酒馆设置清理",
+  "loading_order": 120,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "kookt",
+  "version": "0.1.0",
+  "homePage": "https://github.com/yui-ovo/ST-Settings-Cleaner",
+  "auto_update": false
+}
